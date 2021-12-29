@@ -1,0 +1,1 @@
+<h1>addStock</h1>
